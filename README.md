@@ -1,4 +1,4 @@
-Sending Email in ASP.NET Using SMTP
+# Sending Email in ASP.NET Using SMTP
 This code snippet demonstrates how to send an email using the SMTP protocol in an ASP.NET application. It uses Gmail's email server to send the email.
 
 # Requirements
